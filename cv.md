@@ -14,3 +14,7 @@ My nickname is Coddy Vandler. And my really name is Jam. Yeah, it's sweety. I am
 ## Skills
 I have knowledge. However, they are not enough to work in a large IT company. And I will definitely replenish my level during this course. But I won't stop there.
 Now I know a little about HTML markup, JS, code reading. But I have such skills as perseverance and love of work.
+## Education
+My education has nothing close to this area.
+## Language
+I've always loved English. Since the age of 15, she has been actively studying self-education. Already now I speak with native speakers, understand speech, write in English, watch movies for fun, listen and write music. My level is A2.
